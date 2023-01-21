@@ -1,2 +1,2 @@
 # practice-repo
-Practice learning git
+Practice learning git. Comparing differences!
